@@ -2033,7 +2033,7 @@ async def _run_force_start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Stay with us, I hope you can learn something good. "
         "Join the live regularly. "
         "Join all my channels and groups.\n\n"
-        "‍*Bot Owner:* @limonff143\n\n"
+        "‍*Bot Owner:* @CODINGJAMES_X\n\n"
         "*Available Options:*\n"
         "📞 Get Number      — Get phone numbers by country\n"
         "🌍 Available Country — View available numbers statistics\n\n"
@@ -2111,7 +2111,7 @@ async def show_main_menu(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Stay with us, I hope you can learn something good. "
         "Join the live regularly. "
         "Join all my channels and groups.\n\n"
-        "‍*Bot Owner:* @limonff143\n\n"
+        "‍*Bot Owner:* @CODINGJAMES_X\n\n"
         "*Available Options:*\n"
         "📞 Get Number      — Get phone numbers by country\n"
         "🌍 Available Country — View available numbers statistics\n\n"
@@ -2452,7 +2452,7 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         "Stay with us, I hope you can learn something good. "
         "Join the live regularly. "
         "Join all my channels and groups.\n\n"
-        "‍*Bot Owner:* @limonff143"
+        "‍*Bot Owner:* @CODINGJAMES_X"
     )
     context.user_data.pop('admin_in_user_panel', None)
     reply_kb = get_admin_keyboard() if _is_admin(username, user_id) else get_user_keyboard()
